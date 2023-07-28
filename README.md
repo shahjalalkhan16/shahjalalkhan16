@@ -4,15 +4,13 @@ Welcome to my GitHub profile! 👋
 
 ### Hi there 👋, Mohammad Shahjalal Khan
 
-<!-- #### Passionate and Innovative Web Developer | Software Engineer -->
+#### Passionate and Innovative Web Developer | Software Engineer 
 
-![ Passionate and Innovative Web Developer | Software Engineer]
-
-(https://www.linkedin.com/in/shahjalal16/overlay/background-image/)
+![Passionate and Innovative Web Developer | Software Engineer](https://www.linkedin.com/in/shahjalal16/overlay/background-image/)
 
 ## About Me
 
-Highly dedicated professional with extensive experience in modern web technologies. Driven by a deep passion to learn, adapt, and innovate. Curious explorer of new tech, always pushing boundaries and expanding skills. Enthusiastic researcher of IT-related topics. Creating exceptional web experiences is my true passion.
+Highly dedicated professional with extensive experience in modern web technologies. Driven by a deep passion to learn, adapt, and innovate. a curious explorer of new tech, always pushing boundaries and expanding skills. Enthusiastic researcher of IT-related topics. Creating exceptional web experiences is my true passion.
 
 - 💼 Currently learning Full-Stack Developing.
 - 🌱 Always eager to learn new technologies and explore the latest trends in web development.
