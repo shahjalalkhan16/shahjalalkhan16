@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 👋
 
 ### Hi there 👋, This is  Mohammad Shahjalal Khan
 
-#### Passionate and Innovative Web Developer | Software Engineer
+#### Passionate and Innovative  | Student
 
 <!-- ![ Passionate and Innovative Web Developer | Software Engineer] -->
 
@@ -12,9 +12,9 @@ Welcome to my GitHub profile! 👋
 
 ## About Me
 
-Highly dedicated professional with extensive experience in modern web technologies. Driven by a deep passion to learn, adapt, and innovate. Curious explorer of new tech, always pushing boundaries and expanding skills. Enthusiastic researcher of IT-related topics. Creating exceptional web experiences is my true passion.
+Highly dedicated professional with extensive experience in modern web technologies. Driven by a deep passion to learn, adapt, and innovate. Curious explorer of new tech, always pushing boundaries and expanding skills. Enthusiastic about new things. Creating me as an exceptional human is my true passion.
 
-- 💼 Currently learning Full-Stack Developing.
+- 💼 Currently learning Machine Learning.
 - 🌱 Always eager to learn new technologies and explore the latest trends in web development.
 - 🎓 Currently pursuing my B.Sc. (Eng.) degree in Information and Communication Technology at Comilla University, and I am in my third year of study
 - 💬 Ask me about anything related to web development, JavaScript, or Node. I'd be happy to help!
