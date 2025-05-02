@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad Shahjalal Khan
 
-🎓 Final-year ICT Engineering Student | 🔬 Aspiring Researcher | 💡 AI & Quantum Computing Enthusiast
+🎓Deep Learning| 🔬 Aspiring Researcher | 💡 AI & Quantum Machine Learning Enthusiast
 
 ---
 
