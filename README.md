@@ -1,61 +1,67 @@
-<!-- # Shahjalal Khan -->
+# 👨‍💻 Mohammad Shahjalal Khan
 
 Welcome to my GitHub profile! 👋
 
-### Hi there 👋, This is  Mohammad Shahjalal Khan
+### Hi there 👋, I'm Mohammad Shahjalal Khan  
+#### 📚 ICT Engineering Student | Aspiring Researcher | ML & Quantum Computing Enthusiast
 
-#### Passionate and Innovative  | Student
+![GitHub Banner](https://streak-stats.demolab.com/?user=shahjalalkhan16)
 
-<!-- ![ Passionate and Innovative Web Developer | Software Engineer] -->
+---
 
-(https://www.linkedin.com/in/shahjalal16/overlay/background-image/)
+## 🚀 About Me
 
-## About Me
+I am a passionate and research-driven ICT engineering student with a deep interest in **Machine Learning**, **Deep Learning**, and **Quantum Computing**. Currently exploring the integration of classical and quantum systems to solve real-world challenges.
 
-Highly dedicated professional with extensive experience in modern web technologies. Driven by a deep passion to learn, adapt, and innovate. Curious explorer of new tech, always pushing boundaries and expanding skills. Enthusiastic about new things. Creating me as an exceptional human is my true passion.
+- 🎓 Final-year B.Sc. (Eng.) student in **Information and Communication Technology** at **Comilla University**
+- 🔬 Actively working on research-based projects in **Quantum Machine Learning**
+- 🌱 Continuously learning and experimenting with new technologies
+- 💼 Open to collaborations and research opportunities in AI and Quantum Computing
+- 💬 Ask me about anything related to ML, DL, and QML — always happy to help!
 
-- 💼 Currently learning Machine Learning.
-- 🌱 Always eager to learn new technologies and explore the latest trends in web development.
-- 🎓 Currently pursuing my B.Sc. (Eng.) degree in Information and Communication Technology at Comilla University, and I am in my third year of study
-- 💬 Ask me about anything related to web development, JavaScript, or Node. I'd be happy to help!
-- 📫 How to reach me: You can reach out to me at shahjalalkhanrabbi@gmail.com.
+---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-- Front-End: HTML5, CSS3, TailwindCSS, Bootstrap, JavaScript, React
-- Back-End: Node.js, Express.js
-- Databases: MongoDB, PostgreSQL, MySQL, SQL
-- Tools: Git, Webpack, Docker
+- **Languages:** Python, C++, Java, JavaScript  
+- **AI/ML:** TensorFlow, PyTorch, Keras, Scikit-learn  
+- **Quantum:** PennyLane  
+- **Frontend:** HTML, CSS, TailwindCSS, Bootstrap, JavaScript, React  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, PostgreSQL, MySQL  
+- **Tools:** Git & GitHub, Docker, Webpack
 
-## Contact
+---
 
-- 📧 Email: shahjalalkhanrabbi@gmail.com
-- LinkedIn: [Mohammad Shahjalal Khan](https://www.linkedin.com/in/shahjalal16/)
-- Twitter: [Shahjalal16Khan](https://twitter.com/Shahjalal16Khan)
-- Portfolio: [Shahjalal Khan](https://shahjalal.vercel.app/#)
+## 📫 Contact Me
 
-## Resume
+- 📧 Email: [shahjalalkhanrabbi@gmail.com](mailto:shahjalalkhanrabbi@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/shahjalal16](https://www.linkedin.com/in/shahjalal16/)  
+- 🐦 Twitter: [@Shahjalal16Khan](https://twitter.com/Shahjalal16Khan)  
+- 🌐 Portfolio: [shahjalal.vercel.app](https://shahjalal.vercel.app/#)
 
-- [Link to Resume](https://shahjalal.vercel.app/#)
+---
 
-## Contributions and Feedback
+## 📄 Resume
 
-- Contributions and feedback are welcome! If you find a bug or have a suggestion, feel free to open an issue or submit a pull request.
+- [📥 View My Resume](https://shahjalal.vercel.app/#)
 
-## Used Language
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahjalalkhan16)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
 
-## License
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahjalalkhan16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- All projects in this profile are licensed under the [MIT License](LICENSE). Feel free to use them and build upon them for your projects.
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahjalalkhan16&show_icons=true)
-
+<!-- Optional GitHub Stats & Activity Graphs
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahjalalkhan16&show_icons=true)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahjalalkhan16)
+![GitHub metrics](https://metrics.lecoq.io/shahjalalkhan16)
+-->
 
-![GitHub metrics](https://metrics.lecoq.io/shahjalalkhan16)   -->
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shahjalalkhan16)
+## 📝 License
 
-<!-- ![Profile views](https://gpvc.arturio.dev/shahjalalkhan16)   -->
+All projects in this profile are licensed under the [MIT License](LICENSE).  
+Feel free to use them and build upon them in your own work!
+
