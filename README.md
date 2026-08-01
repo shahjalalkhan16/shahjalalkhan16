@@ -1,71 +1,114 @@
 # 👋 Hi, I'm Shahjalal Khan
 
-🎓Deep Learning| 🔬 Aspiring Researcher | 💡 AI & Quantum Machine Learning Enthusiast
+🎓 ICT Graduate | 🔬 AI & Quantum Machine Learning Researcher | 💻 Python • PyTorch • PennyLane
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a passionate and research-driven individual pursuing a B.Sc. (Eng.) in **Information and Communication Technology** at **Comilla University**. I specialize in **Machine Learning**, **Deep Learning**, and **Quantum Computing**, with hands-on experience in building AI models and exploring quantum-classical hybrid systems.
+I'm a research-oriented ICT graduate from **Comilla University, Bangladesh**, with research interests in **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Medical Image Analysis, and Quantum Machine Learning**.
 
-I'm committed to applying innovative technologies to solve real-world problems — especially in areas like medical imaging, robust learning, and quantum optimization. I enjoy working on interdisciplinary research projects and constantly seek opportunities to learn, grow, and contribute to impactful work.
+Currently, I am working as a **Research Assistant (Intern)** at **AMIR Lab**, where I conduct research on hybrid quantum-classical learning and AI for medical image analysis. I previously worked as a Research Assistant at the **Quantum Machine Learning Laboratory** of Comilla University.
+
+My goal is to develop robust, trustworthy, and explainable AI systems by combining classical deep learning with quantum computing techniques.
 
 ---
 
-## 🚀 What I’m Working On
+## 🔬 Research Interests
 
-- 🔭 Research in **Quantum Machine Learning** for medical image classification
-- ⚙️ Building hybrid **Quantum-Classical models** using PennyLane & PyTorch
-- 📊 Exploring noise-resilient learning and label-noise mitigation
-- 🌱 Currently deepening my skills in **Deep Learning**, **Quantum Machine Learning**, and **AI ethics**
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Medical Image Analysis
+- Quantum Machine Learning
+- Hybrid Quantum-Classical Computing
+- Explainable & Trustworthy AI
+
+---
+
+## 🚀 Current Research
+
+- Hybrid Quantum-Classical Neural Networks
+- Adaptive Quantum-Inspired Kernel Learning
+- Medical Image Classification
+- Noise-Robust Learning
+- Explainable AI for Medical Imaging
 
 ---
 
 ## 🧠 Technical Skills
 
-**Programming Languages:** Python, JavaScript, C, C++, Java  
-**Machine Learning:** PyTorch, TensorFlow, Keras, Scikit-learn  
-**Quantum Tools:** PennyLane, Qiskit  
-**Data Analysis Tools:** Pandas, NumPy, Matplotlib, Seaborn
-**Frontend:** HTML, CSS, Tailwind CSS, Bootstrap, React  
-**Backend:** Node.js, Express.js  
-**Databases:** MongoDB, PostgreSQL, MySQL  
-**Tools & Platforms:** Git & GitHub, Docker, Kaggle, Google Colab
+### Programming
+Python • C • C++ • Java • JavaScript
+
+### Machine Learning
+PyTorch • TensorFlow • Keras • Scikit-learn • NumPy • Pandas • OpenCV
+
+### Quantum Computing
+PennyLane • Qiskit
+
+### Web Technologies
+React • Node.js • Express.js • HTML • CSS • Tailwind CSS • Bootstrap
+
+### Databases
+MongoDB • MySQL • PostgreSQL
+
+### Tools
+Git • GitHub • Docker • Google Colab • Kaggle • LaTeX • Linux
 
 ---
 
-## 📫 Let’s Connect
+## 📑 Publications
 
-- 📧 Email: [shahjalalkhanrabbi@gmail.com](mailto:shahjalalkhanrabbi@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/shahjalal16](https://linkedin.com/in/shahjalal16)  
-- 🐦 Twitter: [@Shahjalal16Khan](https://twitter.com/Shahjalal16Khan)  
-- 🌐 Portfolio: [shahjalal.vercel.app](https://shahjalal.vercel.app/#)
+- **CrossEcomPack: Cross-Domain Package Localization for Low-Resource E-Commerce Logistics**
+  - Accepted at **MIET 2026**
+  - Springer Nature **Lecture Notes in Networks and Systems (LNNS)**
 
----
-
-## 📄 Resume
-
-- [📥 View My Resume](https://shahjalal.vercel.app/#)
+- **HQCNN: Hybrid Quantum-Classical Neural Network for Medical Image Classification**
+  - arXiv Preprint
+  - https://doi.org/10.48550/arXiv.2509.14277
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Awards & Recognition
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahjalalkhan16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-![GitHub streak](https://streak-stats.demolab.com/?user=shahjalalkhan16&theme=default)
-
----
-
-## ⚡ Fun Facts
-
-- I love connecting **quantum theory** with real-world AI applications 🧬  
-- I enjoy mentoring peers in ML and contributing to open-source 📚  
-- My mission: **Make tech smarter, fairer, and globally impactful** 🌍
+- National Science and Technology (NST) Fellowship (2025–2026)
+- Master's Thesis Research Grant, Comilla University
+- 19th Place – Inter University Junior Programming Contest (IUJPC)
+- First Runner-Up – Dhaka Inter-College Academic Quiz Competition
 
 ---
 
-## 🔖 License
+## 📫 Connect with Me
 
-All my public projects are open source and licensed under the [MIT License](LICENSE).  
-You're welcome to use or contribute!
+📧 **Email:** shahjalalkhanrabbi@gmail.com
 
+💼 **LinkedIn:** https://linkedin.com/in/shahjalal16
+
+💻 **GitHub:** https://github.com/shahjalalkhan16
+
+🌐 **Portfolio:** https://shahjalal.vercel.app
+
+---
+
+## 📊 GitHub Statistics
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahjalalkhan16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shahjalalkhan16)
+
+---
+
+## 🤝 Collaboration
+
+I am always interested in collaborating on research projects involving:
+
+- Artificial Intelligence
+- Medical Image Analysis
+- Computer Vision
+- Quantum Machine Learning
+- Trustworthy AI
+- Explainable AI
+
+Feel free to reach out if you're interested in collaborating or discussing research ideas.
