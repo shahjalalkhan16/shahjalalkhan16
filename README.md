@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad Shahjalal Khan
+# 👋 Hi, I'm Shahjalal Khan
 
 🎓Deep Learning| 🔬 Aspiring Researcher | 💡 AI & Quantum Machine Learning Enthusiast
 
@@ -27,7 +27,7 @@ I'm committed to applying innovative technologies to solve real-world problems �
 **Machine Learning:** PyTorch, TensorFlow, Keras, Scikit-learn  
 **Quantum Tools:** PennyLane, Qiskit  
 **Data Analysis Tools:** Pandas, NumPy, Matplotlib, Seaborn
-**Frontend:** HTML, CSS, TailwindCSS, Bootstrap, React  
+**Frontend:** HTML, CSS, Tailwind CSS, Bootstrap, React  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, PostgreSQL, MySQL  
 **Tools & Platforms:** Git & GitHub, Docker, Kaggle, Google Colab
